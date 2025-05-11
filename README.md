@@ -3,7 +3,7 @@
 
 ## Siemens Java Internship - Code Refactoring Project
 
-##Project Structure
+##  Project Structure:
 
 ![image](https://github.com/user-attachments/assets/ab45f225-ff1f-4ff7-bbaa-3d5d0c21e7b1)
 
