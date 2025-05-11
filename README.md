@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## Siemens Java Internship - Code Refactoring Project
 
 ##  Project Structure:
